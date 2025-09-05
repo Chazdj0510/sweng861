@@ -25,6 +25,7 @@ week1/
 │       ├── network_graph.png
 │       ├── Git_revision_history.png
 │       └── Final_commit_ID.png
+└── cloud-image-upload/ [for next assignment]
 ```
 
 ---
@@ -48,8 +49,7 @@ Demonstrates how to upload an image to Amazon S3 and render it in a static HTML 
 week1/cloud-image-upload/
 ├── index.html
 ├── README.md
-├── docs/
-│   └── setup_instructions.md
+├── setup_instructions.md
 ├── screenshots/
 │       ├── Bucket Creation.png
 │       ├── Postman_test.png
