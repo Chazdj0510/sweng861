@@ -18,6 +18,7 @@ Simulates two users (User1 and User2) collaborating on a shared GitHub repositor
 - Final file structure for Git Usage:
 ```code
 week1/
+├── README.md
 ├── myinfo.txt
 ├── dev1.txt
 ├── dev2.txt
