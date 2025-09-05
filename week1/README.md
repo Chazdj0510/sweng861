@@ -25,7 +25,6 @@ week1/
 │       ├── network_graph.png
 │       ├── Git_revision_history.png
 │       └── Final_commit_ID.png
-└── cloud-image-upload/
 ```
 
 ---
